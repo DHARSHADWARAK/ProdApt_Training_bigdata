@@ -1,0 +1,801 @@
+customer_id,name,age,salary,country,city,email,phone,join_date
+1, John ,150,-1000.0,U.S.A,Delhi,floresrandall@livingston.org,9876543210,12-05-2024
+1, John ,25,5000.0,U.S.A,Delhi,,9876543210,2024/01/01
+2,mike,,,United States,Chennai,sarah97@hotmail.com,,31-13-2024
+4,mike,30,-1000.0,USA,Chennai,invalid_email,9876543210,31-13-2024
+5,  david,45,5000.0,india,,,9876543210,
+6,  david,45,,United States,,michael17@mcbride.org,9876543210,12-05-2024
+7,SARAH,25,10000.0,USA,,invalid_email,,31-13-2024
+8,SARAH,45,10000.0,india,Mumbai,,9876543210,2024/01/01
+9,mike,,99999999.0,United States,,michael07@glenn.com,12345,12-05-2024
+10, John ,45,99999999.0,United States,Chennai,andersoncarrie@hensley.org,12345,2024/01/01
+10,,150,99999999.0,U.S.A,Mumbai,leroygarcia@yahoo.com,(987)-654-3210,31-13-2024
+11,  david,,-1000.0,U.S.A,Delhi,,,12-05-2024
+13, John ,30,10000.0,india,,,9876543210,
+13,  david,,,United States,,scott90@yahoo.com,9876543210,31-13-2024
+15, John ,45,99999999.0,U.S.A,,jasonmassey@mendoza.com,12345,2024/01/01
+16,SARAH,150,,INDIA,Delhi,simmonsvalerie@lopez.org,12345,2024/01/01
+17,  david,45,99999999.0,USA,Chennai,invalid_email,12345,2024/01/01
+18,mike,abc,5000.0,USA,,xfischer@johnson.org,(987)-654-3210,2024/01/01
+18,  david,30,-1000.0,INDIA,,invalid_email,(987)-654-3210,2024/01/01
+20,,150,-1000.0,India,,invalid_email,9876543210,2024/01/01
+21, John ,45,5000.0,INDIA,,browndonna@hotmail.com,(987)-654-3210,12-05-2024
+22, John ,30,5000.0,USA,Mumbai,david23@yahoo.com,(987)-654-3210,31-13-2024
+22,mike,abc,10000.0,india,,,,2024/01/01
+23,,30,5000.0,USA,,invalid_email,,
+24, John ,150,5000.0,USA,,,12345,12-05-2024
+26,mike,30,,India,Delhi,invalid_email,(987)-654-3210,31-13-2024
+26,mike,25,99999999.0,INDIA,Chennai,davidmonroe@yahoo.com,9876543210,12-05-2024
+28,mike,,99999999.0,India,Delhi,invalid_email,9876543210,2024/01/01
+28, John ,,-1000.0,India,Mumbai,invalid_email,,2024/01/01
+30,SARAH,30,5000.0,INDIA,,williamlevine@gmail.com,12345,12-05-2024
+31,  david,,,INDIA,Delhi,bryantcatherine@yahoo.com,9876543210,2024/01/01
+32,  david,25,10000.0,India,Chennai,,(987)-654-3210,12-05-2024
+33,,150,,INDIA,,invalid_email,12345,2024/01/01
+34,mike,45,99999999.0,U.S.A,Mumbai,invalid_email,12345,12-05-2024
+35,,abc,,USA,Chennai,,(987)-654-3210,31-13-2024
+36,SARAH,25,10000.0,United States,Mumbai,combsdoris@hotmail.com,,31-13-2024
+37,  david,45,5000.0,U.S.A,Mumbai,hallnancy@yahoo.com,9876543210,2024/01/01
+38,SARAH,abc,10000.0,india,Mumbai,montoyabridget@gmail.com,12345,
+39, John ,25,99999999.0,United States,Chennai,trujillochelsea@miller-fuller.net,12345,2024/01/01
+40,mike,150,99999999.0,INDIA,,,9876543210,12-05-2024
+41,mike,abc,5000.0,United States,,,(987)-654-3210,
+42, John ,45,-1000.0,USA,Mumbai,evanslaura@wilkinson-stevens.biz,(987)-654-3210,12-05-2024
+43,  david,,,india,Delhi,nicolehill@moore.info,(987)-654-3210,2024/01/01
+43, John ,30,-1000.0,India,Delhi,invalid_email,(987)-654-3210,12-05-2024
+44, John ,,10000.0,U.S.A,,invalid_email,12345,2024/01/01
+46, John ,150,10000.0,India,Mumbai,invalid_email,9876543210,31-13-2024
+47,  david,,,United States,Chennai,serranodebra@harris.com,12345,2024/01/01
+48, John ,25,,India,Mumbai,,12345,
+49,,abc,10000.0,United States,Chennai,,,12-05-2024
+50,SARAH,,5000.0,india,Mumbai,,12345,12-05-2024
+51,  david,45,99999999.0,United States,,,12345,2024/01/01
+52,,150,99999999.0,india,Delhi,,12345,
+53,SARAH,45,10000.0,India,,,12345,
+53,,150,10000.0,INDIA,,,(987)-654-3210,12-05-2024
+55,  david,150,,United States,Chennai,molly31@ortiz.org,12345,2024/01/01
+56,mike,25,5000.0,U.S.A,,,9876543210,
+56,  david,30,99999999.0,India,,russellmathis@yahoo.com,(987)-654-3210,12-05-2024
+58,,30,10000.0,india,,invalid_email,9876543210,2024/01/01
+59,,30,99999999.0,india,,,12345,
+59,  david,,10000.0,india,,invalid_email,12345,2024/01/01
+61,  david,,10000.0,United States,,djackson@gmail.com,12345,2024/01/01
+62,SARAH,45,,USA,Delhi,justin95@white-mcneil.com,(987)-654-3210,
+63,mike,25,99999999.0,India,Mumbai,,,
+64,mike,,99999999.0,INDIA,Chennai,,,
+65,SARAH,45,99999999.0,India,,,(987)-654-3210,
+66,SARAH,,99999999.0,USA,,invalid_email,,2024/01/01
+66,mike,abc,,USA,,,9876543210,12-05-2024
+67,mike,,10000.0,USA,Mumbai,invalid_email,12345,2024/01/01
+68,SARAH,45,99999999.0,United States,,invalid_email,9876543210,
+70,  david,25,-1000.0,U.S.A,Chennai,,9876543210,12-05-2024
+71,mike,25,,U.S.A,Delhi,rodriguezdebra@henry.com,,12-05-2024
+72,,150,-1000.0,United States,Delhi,,9876543210,2024/01/01
+73, John ,abc,5000.0,United States,,,,
+74, John ,abc,10000.0,USA,Mumbai,,9876543210,12-05-2024
+75,  david,,-1000.0,USA,,,12345,12-05-2024
+75,,25,99999999.0,United States,,,(987)-654-3210,
+77,  david,150,-1000.0,INDIA,,invalid_email,,
+78,SARAH,30,5000.0,United States,,omorales@miller.com,,
+79, John ,,-1000.0,U.S.A,,llopez@brown.info,12345,31-13-2024
+80,SARAH,abc,-1000.0,INDIA,Chennai,,(987)-654-3210,12-05-2024
+81,,,,U.S.A,,,,
+82, John ,45,10000.0,India,Delhi,invalid_email,12345,
+83,,150,,United States,Mumbai,,,31-13-2024
+84,SARAH,30,5000.0,india,Delhi,invalid_email,9876543210,2024/01/01
+85,mike,150,99999999.0,United States,,,12345,12-05-2024
+86,SARAH,30,-1000.0,U.S.A,Mumbai,sgray@gmail.com,(987)-654-3210,31-13-2024
+87, John ,abc,-1000.0,india,Delhi,,,12-05-2024
+88,  david,45,99999999.0,India,,invalid_email,(987)-654-3210,12-05-2024
+89,,25,5000.0,India,,ryan65@gmail.com,9876543210,2024/01/01
+90,  david,45,5000.0,U.S.A,Chennai,,,2024/01/01
+90,,,-1000.0,INDIA,,invalid_email,9876543210,12-05-2024
+92,mike,45,5000.0,U.S.A,Delhi,johnwinters@roberts.com,9876543210,2024/01/01
+93,,,,India,Mumbai,guzmanallen@hogan.info,(987)-654-3210,31-13-2024
+94,,25,10000.0,United States,,,(987)-654-3210,
+95,  david,30,10000.0,United States,Delhi,christian04@davis-leonard.com,9876543210,2024/01/01
+96,  david,150,,United States,,lsavage@williams-fernandez.biz,,31-13-2024
+96,SARAH,abc,,India,,jacobcummings@williams.com,9876543210,
+98,  david,45,5000.0,USA,Delhi,,9876543210,31-13-2024
+99,mike,,,india,,invalid_email,(987)-654-3210,
+99, John ,,-1000.0,India,Mumbai,invalid_email,9876543210,2024/01/01
+101,,150,99999999.0,United States,,,9876543210,
+102,SARAH,45,-1000.0,USA,,,9876543210,
+102, John ,30,,United States,,invalid_email,,12-05-2024
+104,SARAH,abc,10000.0,United States,,,,12-05-2024
+105,  david,30,10000.0,United States,,terrywilliams@sloan.com,,12-05-2024
+106, John ,,5000.0,india,Delhi,invalid_email,12345,31-13-2024
+106,,,10000.0,India,,karen76@yahoo.com,,2024/01/01
+108, John ,45,99999999.0,United States,,invalid_email,9876543210,31-13-2024
+109,  david,abc,99999999.0,U.S.A,,,,31-13-2024
+110,  david,abc,99999999.0,India,Mumbai,reedsandra@watson.info,(987)-654-3210,
+111,,25,-1000.0,india,,,,
+112,,25,10000.0,INDIA,,invalid_email,9876543210,
+113,  david,,5000.0,india,Delhi,invalid_email,(987)-654-3210,12-05-2024
+113,SARAH,45,,india,,,9876543210,31-13-2024
+114,SARAH,150,99999999.0,INDIA,Chennai,,9876543210,2024/01/01
+116,mike,150,5000.0,India,Chennai,,9876543210,
+117,SARAH,25,5000.0,United States,Chennai,invalid_email,12345,31-13-2024
+117,mike,30,,India,,,(987)-654-3210,2024/01/01
+119, John ,abc,99999999.0,INDIA,Delhi,invalid_email,(987)-654-3210,2024/01/01
+119,SARAH,,-1000.0,india,Chennai,invalid_email,12345,2024/01/01
+121,,45,,United States,,,12345,
+122,mike,,99999999.0,USA,Delhi,invalid_email,12345,31-13-2024
+123, John ,150,99999999.0,United States,Chennai,,9876543210,
+124,mike,abc,-1000.0,U.S.A,Delhi,,12345,2024/01/01
+125, John ,45,99999999.0,USA,,invalid_email,(987)-654-3210,12-05-2024
+126,SARAH,150,99999999.0,U.S.A,Delhi,samanthahansen@dunlap.com,12345,31-13-2024
+127,SARAH,,-1000.0,india,Mumbai,eric12@hotmail.com,,12-05-2024
+128,mike,150,99999999.0,INDIA,Mumbai,kchen@taylor-kelly.com,,12-05-2024
+129,  david,25,99999999.0,United States,Mumbai,,,31-13-2024
+130,mike,,5000.0,INDIA,,invalid_email,(987)-654-3210,12-05-2024
+130,SARAH,150,99999999.0,USA,Delhi,ofleming@wilkins-boyer.net,9876543210,31-13-2024
+131, John ,25,10000.0,INDIA,Delhi,invalid_email,,31-13-2024
+132,  david,150,10000.0,India,Chennai,invalid_email,,31-13-2024
+134,SARAH,30,99999999.0,India,Delhi,invalid_email,9876543210,31-13-2024
+135, John ,,-1000.0,U.S.A,Chennai,invalid_email,9876543210,2024/01/01
+136, John ,45,10000.0,U.S.A,,jennifersmith@gmail.com,9876543210,2024/01/01
+137,mike,45,10000.0,INDIA,Chennai,invalid_email,(987)-654-3210,2024/01/01
+138,mike,25,5000.0,U.S.A,Chennai,invalid_email,(987)-654-3210,31-13-2024
+139,mike,45,5000.0,U.S.A,,,9876543210,12-05-2024
+139,,45,,INDIA,Chennai,invalid_email,(987)-654-3210,12-05-2024
+141,,150,5000.0,USA,,invalid_email,,12-05-2024
+141,,25,5000.0,United States,,martinjulia@yahoo.com,9876543210,2024/01/01
+143,  david,150,,INDIA,Mumbai,invalid_email,12345,
+143, John ,150,5000.0,india,,,(987)-654-3210,
+144,mike,,-1000.0,India,,invalid_email,9876543210,31-13-2024
+145,SARAH,150,-1000.0,United States,Delhi,,,12-05-2024
+147, John ,25,99999999.0,USA,Mumbai,morenodennis@lewis-garcia.com,9876543210,31-13-2024
+148,,45,99999999.0,india,Chennai,invalid_email,12345,31-13-2024
+149,  david,abc,10000.0,U.S.A,,pottertroy@gmail.com,9876543210,31-13-2024
+150, John ,45,,U.S.A,,,9876543210,31-13-2024
+151,mike,45,-1000.0,United States,Mumbai,kimberlyrowe@hotmail.com,(987)-654-3210,2024/01/01
+151, John ,30,5000.0,USA,,williamsraymond@ramirez.com,,
+152,SARAH,30,-1000.0,United States,Mumbai,,9876543210,12-05-2024
+154,mike,abc,5000.0,india,Chennai,invalid_email,,
+154,  david,,99999999.0,United States,Delhi,,9876543210,31-13-2024
+155, John ,45,,India,,,12345,12-05-2024
+157,,abc,5000.0,USA,Delhi,invalid_email,(987)-654-3210,2024/01/01
+158,SARAH,45,5000.0,USA,,,,2024/01/01
+159,,abc,10000.0,INDIA,,,12345,12-05-2024
+159, John ,,5000.0,India,Chennai,invalid_email,,
+160,SARAH,25,99999999.0,USA,Mumbai,james93@gomez-williams.net,,31-13-2024
+162,,25,10000.0,India,,invalid_email,9876543210,
+163,SARAH,30,-1000.0,U.S.A,Chennai,,9876543210,2024/01/01
+164,SARAH,150,10000.0,U.S.A,Chennai,vmitchell@smith.com,12345,2024/01/01
+165,  david,30,5000.0,U.S.A,,invalid_email,,31-13-2024
+166,mike,,5000.0,India,,,12345,31-13-2024
+167,SARAH,abc,5000.0,United States,,invalid_email,9876543210,12-05-2024
+168,SARAH,25,5000.0,INDIA,,,,
+169,,abc,10000.0,United States,,invalid_email,(987)-654-3210,12-05-2024
+169, John ,45,5000.0,INDIA,Delhi,pearsonbarbara@stout.org,(987)-654-3210,
+170,  david,abc,,U.S.A,Mumbai,invalid_email,12345,
+171,SARAH,150,,USA,Mumbai,jennifer62@daniel.com,12345,12-05-2024
+172,SARAH,45,,U.S.A,Mumbai,johnsonhaley@gmail.com,(987)-654-3210,31-13-2024
+174,,30,,india,Chennai,invalid_email,,31-13-2024
+175,  david,25,99999999.0,INDIA,Mumbai,veronicaking@stokes.net,12345,31-13-2024
+176,mike,45,99999999.0,U.S.A,Delhi,bmontoya@yahoo.com,(987)-654-3210,12-05-2024
+177, John ,abc,,india,,sean70@martin-dunn.com,12345,2024/01/01
+177,mike,30,10000.0,india,,hriley@gmail.com,,12-05-2024
+178,SARAH,150,10000.0,India,,invalid_email,,2024/01/01
+180,SARAH,,10000.0,United States,,invalid_email,,31-13-2024
+180,  david,abc,99999999.0,U.S.A,Delhi,,(987)-654-3210,31-13-2024
+182,,45,,USA,,mary91@gamble-alvarado.com,12345,12-05-2024
+183,SARAH,,,U.S.A,,bshaw@yahoo.com,(987)-654-3210,
+184, John ,,5000.0,India,,invalid_email,(987)-654-3210,
+185,SARAH,30,5000.0,United States,Chennai,,12345,2024/01/01
+186, John ,45,99999999.0,india,Delhi,,,
+187, John ,25,-1000.0,U.S.A,Delhi,,,12-05-2024
+188,mike,45,5000.0,USA,Delhi,invalid_email,,12-05-2024
+189,,abc,,USA,,,(987)-654-3210,2024/01/01
+190,,25,,United States,Delhi,,,2024/01/01
+191,  david,45,5000.0,INDIA,,,9876543210,
+191, John ,150,99999999.0,United States,Mumbai,,9876543210,31-13-2024
+193,SARAH,30,5000.0,INDIA,Mumbai,wardmelissa@williams.com,9876543210,31-13-2024
+194,mike,150,99999999.0,india,,,(987)-654-3210,2024/01/01
+195,,25,-1000.0,U.S.A,Chennai,samuel93@yahoo.com,9876543210,31-13-2024
+196,  david,,,India,Mumbai,taramartin@hotmail.com,(987)-654-3210,31-13-2024
+197, John ,150,-1000.0,United States,Chennai,invalid_email,,
+197,,45,10000.0,India,,invalid_email,12345,12-05-2024
+198, John ,,,U.S.A,,invalid_email,12345,12-05-2024
+200,SARAH,150,-1000.0,United States,,,,2024/01/01
+200,SARAH,,5000.0,india,Mumbai,,,31-13-2024
+202, John ,150,99999999.0,United States,,,(987)-654-3210,12-05-2024
+203,  david,150,99999999.0,USA,Delhi,coltonburns@gmail.com,(987)-654-3210,31-13-2024
+204,,abc,5000.0,INDIA,Delhi,,,31-13-2024
+205,,25,,U.S.A,,invalid_email,,31-13-2024
+206,mike,25,5000.0,india,Delhi,invalid_email,,12-05-2024
+207,SARAH,150,99999999.0,U.S.A,,invalid_email,,2024/01/01
+208,mike,25,99999999.0,U.S.A,,arnolddaniel@gmail.com,12345,31-13-2024
+209,  david,abc,-1000.0,United States,Delhi,,(987)-654-3210,31-13-2024
+210, John ,30,10000.0,U.S.A,,andrew11@yahoo.com,12345,31-13-2024
+210,  david,30,,USA,Chennai,invalid_email,,
+211,,abc,5000.0,U.S.A,Mumbai,,9876543210,
+212,  david,45,10000.0,INDIA,,nreyes@hotmail.com,(987)-654-3210,
+214, John ,abc,10000.0,United States,Delhi,roger48@hotmail.com,12345,2024/01/01
+215,  david,45,5000.0,United States,Delhi,,12345,2024/01/01
+216,  david,abc,5000.0,INDIA,Delhi,,(987)-654-3210,2024/01/01
+217,  david,25,5000.0,USA,Chennai,,12345,2024/01/01
+217,  david,150,5000.0,India,,invalid_email,12345,
+219,,45,99999999.0,USA,Chennai,shawn23@gmail.com,,
+219,,30,-1000.0,INDIA,Delhi,invalid_email,12345,31-13-2024
+220,mike,45,,INDIA,Chennai,invalid_email,(987)-654-3210,
+222,SARAH,,10000.0,U.S.A,Chennai,joseglover@andrews.org,12345,
+222,mike,30,-1000.0,INDIA,Mumbai,schmidtbrian@woods-gill.com,(987)-654-3210,
+223,,45,99999999.0,USA,Chennai,invalid_email,,2024/01/01
+225,  david,45,5000.0,USA,Mumbai,invalid_email,,31-13-2024
+226, John ,,10000.0,United States,Mumbai,invalid_email,12345,12-05-2024
+226, John ,abc,,U.S.A,Mumbai,,12345,12-05-2024
+227,  david,,,United States,,,9876543210,2024/01/01
+229,,45,-1000.0,INDIA,Mumbai,simpsonsonya@gmail.com,(987)-654-3210,
+230, John ,25,10000.0,india,Mumbai,invalid_email,,2024/01/01
+231,SARAH,abc,-1000.0,U.S.A,,,12345,31-13-2024
+231,  david,45,99999999.0,USA,Mumbai,invalid_email,9876543210,
+233, John ,abc,99999999.0,United States,,,(987)-654-3210,12-05-2024
+233,mike,abc,,India,Delhi,,(987)-654-3210,12-05-2024
+235,mike,25,99999999.0,United States,,dustin48@yahoo.com,,2024/01/01
+235,  david,abc,99999999.0,india,Chennai,,(987)-654-3210,2024/01/01
+237,,abc,99999999.0,United States,Delhi,invalid_email,12345,31-13-2024
+238,  david,,10000.0,U.S.A,Mumbai,,12345,2024/01/01
+239,SARAH,150,10000.0,india,,invalid_email,,31-13-2024
+240,SARAH,25,,india,,invalid_email,,31-13-2024
+241,SARAH,25,-1000.0,india,Chennai,invalid_email,,31-13-2024
+241,mike,30,,United States,,,12345,2024/01/01
+243,  david,150,,U.S.A,Delhi,jessica75@johnson.com,(987)-654-3210,2024/01/01
+244, John ,,-1000.0,india,,michelle54@yahoo.com,(987)-654-3210,12-05-2024
+245,,150,99999999.0,India,Delhi,invalid_email,12345,31-13-2024
+246, John ,150,,U.S.A,,,9876543210,2024/01/01
+246,mike,25,99999999.0,India,Delhi,,12345,12-05-2024
+248,SARAH,abc,,USA,Mumbai,invalid_email,,
+249,  david,,-1000.0,U.S.A,Chennai,invalid_email,(987)-654-3210,
+250,mike,25,-1000.0,United States,,,(987)-654-3210,2024/01/01
+250,,abc,-1000.0,USA,,,9876543210,2024/01/01
+252,,45,10000.0,USA,Mumbai,invalid_email,(987)-654-3210,
+253,SARAH,45,,india,,eday@hogan-davis.com,12345,31-13-2024
+254, John ,150,5000.0,India,Mumbai,ucoleman@perez-ortiz.org,,31-13-2024
+255,SARAH,45,,U.S.A,Delhi,wtaylor@gmail.com,,2024/01/01
+255,  david,45,99999999.0,india,,invalid_email,(987)-654-3210,2024/01/01
+257,  david,,,india,Mumbai,wsingh@evans.com,9876543210,12-05-2024
+258,  david,abc,10000.0,U.S.A,Mumbai,,,12-05-2024
+259,  david,,5000.0,INDIA,,harriskenneth@cooper.biz,,2024/01/01
+259,,abc,5000.0,INDIA,,,12345,12-05-2024
+260,SARAH,25,10000.0,INDIA,Chennai,hernandezderrick@meyer.com,,31-13-2024
+262,  david,25,5000.0,India,Chennai,invalid_email,,2024/01/01
+263,,45,99999999.0,India,,invalid_email,9876543210,2024/01/01
+264, John ,30,,India,,robin29@gonzalez.biz,(987)-654-3210,12-05-2024
+265,SARAH,,,India,,invalid_email,(987)-654-3210,2024/01/01
+265,SARAH,30,-1000.0,U.S.A,Chennai,greendiana@gmail.com,,12-05-2024
+267,mike,25,5000.0,INDIA,Chennai,invalid_email,9876543210,2024/01/01
+268,,,10000.0,INDIA,Delhi,khernandez@yahoo.com,(987)-654-3210,31-13-2024
+269,  david,45,,INDIA,Mumbai,keithjerome@hotmail.com,12345,2024/01/01
+270,,45,-1000.0,USA,,,(987)-654-3210,
+270, John ,45,99999999.0,INDIA,Mumbai,,,
+272,SARAH,,10000.0,INDIA,,christinelucas@yahoo.com,(987)-654-3210,31-13-2024
+273,,25,,India,,,(987)-654-3210,
+274,SARAH,30,-1000.0,india,Chennai,invalid_email,12345,12-05-2024
+275, John ,45,99999999.0,india,,,9876543210,12-05-2024
+276,  david,150,,U.S.A,,mwilliams@hotmail.com,12345,31-13-2024
+277,mike,30,5000.0,india,,ashleysmith@gallegos.com,(987)-654-3210,
+278,  david,45,-1000.0,India,,,12345,31-13-2024
+279,SARAH,abc,99999999.0,India,Chennai,,,31-13-2024
+280,SARAH,45,99999999.0,USA,,qanderson@kennedy.net,(987)-654-3210,12-05-2024
+281,  david,abc,,india,,invalid_email,(987)-654-3210,2024/01/01
+282,mike,,,U.S.A,,,12345,31-13-2024
+282,,,10000.0,india,Mumbai,bheath@gmail.com,(987)-654-3210,
+284,  david,150,5000.0,INDIA,Chennai,ggonzalez@cain-barker.com,9876543210,12-05-2024
+284,mike,150,10000.0,USA,Delhi,kevin27@cox-tanner.com,(987)-654-3210,
+286, John ,abc,,India,,bairdmelinda@yahoo.com,9876543210,
+287, John ,abc,-1000.0,INDIA,Mumbai,ypeters@yahoo.com,,2024/01/01
+288, John ,abc,10000.0,U.S.A,Delhi,,12345,31-13-2024
+289,,25,-1000.0,India,,,(987)-654-3210,2024/01/01
+290, John ,150,5000.0,USA,,invalid_email,,
+291, John ,150,10000.0,USA,,invalid_email,12345,12-05-2024
+292,mike,30,,India,Mumbai,catherinecarrillo@martinez.net,9876543210,31-13-2024
+293,mike,45,5000.0,U.S.A,,qrich@collins.org,,12-05-2024
+294,mike,abc,10000.0,INDIA,,,12345,
+295, John ,abc,-1000.0,USA,Chennai,invalid_email,(987)-654-3210,12-05-2024
+296,  david,abc,,India,Mumbai,matthewbennett@mendoza-hayes.com,12345,
+296,mike,45,,India,,brittneyball@hotmail.com,,12-05-2024
+298,mike,150,5000.0,USA,Mumbai,jenniferklein@gmail.com,,2024/01/01
+298,SARAH,45,5000.0,USA,Chennai,invalid_email,,31-13-2024
+300, John ,30,5000.0,U.S.A,,invalid_email,,12-05-2024
+301, John ,45,,USA,,,12345,
+302,SARAH,,99999999.0,USA,,jacobsmith@anderson-benitez.info,(987)-654-3210,
+303,mike,45,-1000.0,United States,,michelleclark@mosley-rodriguez.com,9876543210,2024/01/01
+303,SARAH,,-1000.0,India,Chennai,invalid_email,12345,2024/01/01
+304,  david,abc,10000.0,India,Chennai,yhansen@thomas.info,12345,12-05-2024
+305,SARAH,abc,99999999.0,United States,,invalid_email,,2024/01/01
+307,SARAH,abc,10000.0,India,Mumbai,alicia36@willis-richards.com,,31-13-2024
+308,,abc,10000.0,United States,,invalid_email,,31-13-2024
+309,  david,30,,INDIA,Delhi,,9876543210,
+310,,45,5000.0,India,,ujones@gmail.com,12345,2024/01/01
+311,mike,150,99999999.0,India,Chennai,invalid_email,,
+311,  david,25,-1000.0,india,,,9876543210,12-05-2024
+313,SARAH,30,,USA,,,,31-13-2024
+313, John ,25,5000.0,United States,Delhi,,(987)-654-3210,
+315,,,,india,,halvarez@miller.com,12345,12-05-2024
+315, John ,45,99999999.0,USA,Chennai,,(987)-654-3210,31-13-2024
+317,SARAH,,10000.0,INDIA,,invalid_email,,12-05-2024
+317,,45,5000.0,United States,Chennai,,9876543210,12-05-2024
+319, John ,150,10000.0,india,Delhi,,(987)-654-3210,2024/01/01
+320,  david,,99999999.0,U.S.A,,,(987)-654-3210,2024/01/01
+320,,25,,U.S.A,,,,
+322,mike,30,-1000.0,india,Chennai,,9876543210,2024/01/01
+323,SARAH,30,99999999.0,USA,Mumbai,,,31-13-2024
+323,  david,,,USA,Mumbai,invalid_email,,2024/01/01
+325,  david,abc,5000.0,india,Delhi,invalid_email,9876543210,2024/01/01
+326, John ,30,-1000.0,india,Delhi,,,
+327,  david,,99999999.0,U.S.A,,,(987)-654-3210,2024/01/01
+327,SARAH,30,10000.0,United States,,,9876543210,31-13-2024
+329,,30,10000.0,India,,,,
+329,,150,99999999.0,India,Delhi,melissaorr@conway.info,9876543210,2024/01/01
+331, John ,45,10000.0,INDIA,Mumbai,xlopez@gmail.com,,
+332,  david,25,-1000.0,INDIA,Mumbai,,9876543210,
+333,,25,10000.0,United States,Chennai,invalid_email,12345,31-13-2024
+334,,25,10000.0,U.S.A,,,12345,
+335,  david,30,10000.0,U.S.A,Chennai,,12345,31-13-2024
+336,SARAH,150,-1000.0,United States,,invalid_email,9876543210,2024/01/01
+336, John ,45,10000.0,india,Delhi,mgrimes@boyle.org,(987)-654-3210,31-13-2024
+338,,,10000.0,INDIA,Mumbai,,,
+338, John ,150,5000.0,India,,,12345,31-13-2024
+339,,45,,USA,Chennai,,,31-13-2024
+341,  david,,10000.0,India,Delhi,invalid_email,12345,31-13-2024
+342,SARAH,abc,,U.S.A,,invalid_email,12345,12-05-2024
+343, John ,150,99999999.0,USA,Chennai,gsims@gmail.com,,
+344,,30,10000.0,india,Mumbai,ashleyhernandez@hotmail.com,12345,12-05-2024
+345,SARAH,25,-1000.0,india,Delhi,wallacecorey@flores.net,,31-13-2024
+346,,150,5000.0,india,Chennai,wfreeman@gmail.com,(987)-654-3210,
+347,mike,abc,10000.0,INDIA,,huntrebecca@yahoo.com,9876543210,31-13-2024
+348,,150,10000.0,India,Chennai,zharris@gmail.com,,12-05-2024
+349, John ,45,-1000.0,United States,Delhi,invalid_email,(987)-654-3210,2024/01/01
+350,  david,abc,5000.0,INDIA,Delhi,invalid_email,12345,2024/01/01
+351,,abc,99999999.0,U.S.A,Chennai,willisaaron@cantu.net,(987)-654-3210,12-05-2024
+351,SARAH,,-1000.0,U.S.A,Delhi,invalid_email,9876543210,2024/01/01
+353, John ,150,-1000.0,U.S.A,,,(987)-654-3210,
+354, John ,30,99999999.0,India,Chennai,freemanbruce@hotmail.com,,12-05-2024
+355,SARAH,45,10000.0,India,,invalid_email,12345,2024/01/01
+355, John ,25,,USA,Chennai,invalid_email,(987)-654-3210,12-05-2024
+357,,abc,-1000.0,india,,invalid_email,,
+358,  david,abc,,U.S.A,Mumbai,kaitlyn46@yahoo.com,12345,12-05-2024
+359,mike,abc,-1000.0,India,,,9876543210,31-13-2024
+359,mike,25,10000.0,USA,,jamie36@castillo.biz,,12-05-2024
+361,mike,25,5000.0,india,Delhi,,9876543210,2024/01/01
+361,SARAH,abc,,india,Mumbai,williamsonsharon@yahoo.com,12345,2024/01/01
+363, John ,25,-1000.0,India,Mumbai,,9876543210,31-13-2024
+364,,,,United States,Chennai,invalid_email,(987)-654-3210,31-13-2024
+365,SARAH,25,,india,Chennai,elizabethevans@smith-gallagher.biz,9876543210,12-05-2024
+366,mike,25,99999999.0,United States,,qgriffin@gmail.com,(987)-654-3210,12-05-2024
+366,mike,45,10000.0,India,Mumbai,invalid_email,9876543210,31-13-2024
+368,  david,150,5000.0,U.S.A,Delhi,,9876543210,
+369,,45,-1000.0,United States,Chennai,,,12-05-2024
+370,mike,45,,United States,,karenobrien@kennedy.com,,31-13-2024
+370,mike,150,,U.S.A,Delhi,lewisdave@ramirez.com,,12-05-2024
+372,  david,45,5000.0,United States,Chennai,,,31-13-2024
+373,mike,abc,10000.0,India,,michael94@gmail.com,(987)-654-3210,31-13-2024
+374, John ,30,,India,Mumbai,invalid_email,9876543210,12-05-2024
+375,,25,,INDIA,Chennai,invalid_email,(987)-654-3210,2024/01/01
+376,SARAH,45,99999999.0,india,Mumbai,invalid_email,,31-13-2024
+377, John ,30,10000.0,INDIA,Chennai,maddenjessica@burgess.net,9876543210,2024/01/01
+377,,45,99999999.0,USA,,invalid_email,(987)-654-3210,
+379,,45,5000.0,USA,Delhi,,12345,12-05-2024
+380,SARAH,30,5000.0,india,Delhi,invalid_email,,12-05-2024
+381,SARAH,30,5000.0,India,,,(987)-654-3210,12-05-2024
+381, John ,30,5000.0,USA,Chennai,garciajesse@hurley.com,(987)-654-3210,2024/01/01
+382,SARAH,150,5000.0,INDIA,,invalid_email,9876543210,12-05-2024
+384,mike,150,99999999.0,U.S.A,Chennai,invalid_email,9876543210,12-05-2024
+384, John ,30,,India,,invalid_email,9876543210,
+385,mike,45,10000.0,U.S.A,Mumbai,invalid_email,,2024/01/01
+387,  david,abc,,U.S.A,Mumbai,invalid_email,,
+388, John ,45,99999999.0,U.S.A,,mariajackson@tucker.com,(987)-654-3210,12-05-2024
+388,SARAH,,,India,Mumbai,,12345,
+390,mike,25,-1000.0,INDIA,Delhi,zdecker@yahoo.com,12345,12-05-2024
+390,  david,45,,U.S.A,Delhi,torreserik@yahoo.com,(987)-654-3210,2024/01/01
+392,  david,150,5000.0,U.S.A,,invalid_email,12345,2024/01/01
+393,mike,abc,-1000.0,india,Mumbai,,9876543210,31-13-2024
+394,  david,30,99999999.0,INDIA,Mumbai,rhodesalyssa@yahoo.com,,12-05-2024
+395, John ,30,,U.S.A,Chennai,,,12-05-2024
+396,  david,30,10000.0,United States,Delhi,invalid_email,9876543210,12-05-2024
+397,  david,150,10000.0,USA,,invalid_email,9876543210,31-13-2024
+397,  david,25,-1000.0,United States,Mumbai,ycross@yahoo.com,(987)-654-3210,
+398,SARAH,30,,india,,invalid_email,(987)-654-3210,2024/01/01
+399,SARAH,150,-1000.0,U.S.A,Delhi,,9876543210,
+401,mike,abc,-1000.0,INDIA,Delhi,,9876543210,
+402,SARAH,150,5000.0,U.S.A,Mumbai,invalid_email,(987)-654-3210,12-05-2024
+403,,25,-1000.0,U.S.A,Delhi,,9876543210,31-13-2024
+404, John ,150,5000.0,USA,,invalid_email,,2024/01/01
+404,,,-1000.0,INDIA,,nathanlee@alvarez.com,,2024/01/01
+406,,25,5000.0,United States,Chennai,invalid_email,12345,12-05-2024
+407,SARAH,30,99999999.0,U.S.A,Chennai,,9876543210,31-13-2024
+407, John ,,10000.0,INDIA,,kathleenpena@melton.org,9876543210,12-05-2024
+409,mike,30,99999999.0,india,,,12345,31-13-2024
+410,mike,25,5000.0,India,,,,2024/01/01
+411,SARAH,25,99999999.0,USA,Mumbai,,,2024/01/01
+412, John ,30,10000.0,india,Mumbai,valerie04@yahoo.com,,12-05-2024
+413,,,99999999.0,india,Mumbai,jason21@mccoy.com,,2024/01/01
+414,,45,10000.0,India,Chennai,invalid_email,,
+415,mike,45,,USA,Delhi,,9876543210,12-05-2024
+416,  david,,,U.S.A,,akey@gmail.com,,
+416,  david,30,99999999.0,United States,Chennai,invalid_email,9876543210,2024/01/01
+418,,30,10000.0,U.S.A,Delhi,andrew34@hotmail.com,9876543210,
+419,,30,10000.0,INDIA,Mumbai,invalid_email,9876543210,12-05-2024
+419,  david,,,United States,Mumbai,,,12-05-2024
+420, John ,,10000.0,U.S.A,,,9876543210,12-05-2024
+422,SARAH,abc,-1000.0,India,Mumbai,invalid_email,,
+423,mike,45,99999999.0,U.S.A,,,,12-05-2024
+423,SARAH,150,10000.0,USA,,invalid_email,12345,12-05-2024
+425,SARAH,45,-1000.0,India,Chennai,kelleysteven@collins.com,(987)-654-3210,31-13-2024
+425,SARAH,45,99999999.0,INDIA,Chennai,kelsey05@hotmail.com,,2024/01/01
+426,,abc,-1000.0,USA,,adam48@jackson.org,9876543210,31-13-2024
+427,mike,abc,,USA,Delhi,ericahendricks@hotmail.com,(987)-654-3210,12-05-2024
+429, John ,,5000.0,United States,Delhi,invalid_email,12345,
+429, John ,150,5000.0,U.S.A,Mumbai,invalid_email,,2024/01/01
+430,  david,abc,-1000.0,United States,Delhi,invalid_email,9876543210,31-13-2024
+432,,25,10000.0,INDIA,Delhi,tfuller@lutz-hobbs.com,(987)-654-3210,2024/01/01
+433,,abc,5000.0,india,Chennai,invalid_email,(987)-654-3210,2024/01/01
+434,mike,45,,United States,Mumbai,invalid_email,,31-13-2024
+434,SARAH,30,99999999.0,United States,,,,12-05-2024
+436,  david,150,-1000.0,INDIA,,,12345,31-13-2024
+437,,25,-1000.0,United States,Mumbai,invalid_email,12345,31-13-2024
+438,mike,abc,10000.0,USA,,invalid_email,12345,2024/01/01
+439,,45,-1000.0,India,,invalid_email,9876543210,2024/01/01
+440,mike,150,,india,,,12345,31-13-2024
+441,  david,30,-1000.0,USA,,xalvarado@gmail.com,12345,2024/01/01
+442, John ,30,-1000.0,U.S.A,Mumbai,invalid_email,12345,31-13-2024
+443,  david,45,99999999.0,USA,,mercerkenneth@gmail.com,9876543210,
+444,  david,25,99999999.0,INDIA,Mumbai,invalid_email,9876543210,2024/01/01
+445,mike,45,99999999.0,INDIA,,lsandoval@smith-greene.com,12345,2024/01/01
+446,,45,10000.0,United States,Chennai,jessicapratt@hooper.com,,31-13-2024
+447,mike,abc,10000.0,India,Chennai,jessethompson@yahoo.com,,
+447,,,99999999.0,USA,Chennai,,(987)-654-3210,31-13-2024
+449,SARAH,abc,10000.0,USA,Chennai,,(987)-654-3210,2024/01/01
+450,SARAH,30,5000.0,India,,,12345,2024/01/01
+451, John ,45,-1000.0,India,,,12345,
+452,SARAH,,-1000.0,U.S.A,Delhi,invalid_email,9876543210,2024/01/01
+453,mike,30,5000.0,INDIA,,rhebert@rice-alvarez.com,9876543210,31-13-2024
+454,,150,-1000.0,INDIA,,stephenslisa@gmail.com,9876543210,12-05-2024
+455, John ,150,5000.0,India,,invalid_email,9876543210,31-13-2024
+455,mike,30,5000.0,United States,,,9876543210,31-13-2024
+457,,25,,india,,fmartin@jimenez-johnson.org,12345,12-05-2024
+458,,30,,U.S.A,Mumbai,,(987)-654-3210,31-13-2024
+458,SARAH,30,5000.0,INDIA,,brussell@huber-olsen.com,,31-13-2024
+460, John ,25,5000.0,USA,,,,2024/01/01
+461,  david,25,5000.0,United States,Delhi,invalid_email,12345,31-13-2024
+461, John ,25,10000.0,USA,Mumbai,invalid_email,12345,
+463, John ,25,5000.0,U.S.A,Delhi,invalid_email,12345,
+464, John ,45,-1000.0,U.S.A,Chennai,invalid_email,,
+465,,150,99999999.0,India,Delhi,scottlittle@yahoo.com,(987)-654-3210,12-05-2024
+466, John ,,,India,,,,2024/01/01
+466,SARAH,abc,5000.0,india,Delhi,invalid_email,,12-05-2024
+467,,25,5000.0,United States,Mumbai,calvinsingh@hotmail.com,(987)-654-3210,31-13-2024
+469,,150,10000.0,India,Mumbai,,,2024/01/01
+470, John ,150,10000.0,INDIA,,invalid_email,(987)-654-3210,12-05-2024
+470,SARAH,30,-1000.0,United States,Chennai,,(987)-654-3210,
+471,mike,25,99999999.0,India,,invalid_email,9876543210,
+472,SARAH,25,99999999.0,india,Chennai,brianwright@miller.com,,
+474,  david,abc,5000.0,USA,,,12345,2024/01/01
+474,SARAH,45,5000.0,U.S.A,,invalid_email,,31-13-2024
+475, John ,25,10000.0,USA,Mumbai,invalid_email,12345,31-13-2024
+477, John ,30,99999999.0,U.S.A,,robindavis@gmail.com,12345,2024/01/01
+478, John ,,10000.0,India,Delhi,,12345,12-05-2024
+478, John ,150,,USA,,invalid_email,(987)-654-3210,
+480,  david,150,5000.0,INDIA,,,,2024/01/01
+481,mike,25,99999999.0,india,,,12345,
+481,  david,150,10000.0,United States,,invalid_email,12345,
+483,mike,,,india,,invalid_email,12345,2024/01/01
+484,mike,abc,-1000.0,india,Mumbai,,(987)-654-3210,2024/01/01
+485, John ,45,,India,,,,31-13-2024
+485, John ,abc,5000.0,USA,,rebeccaryan@gmail.com,9876543210,12-05-2024
+487,SARAH,30,-1000.0,india,Mumbai,patriciajefferson@hotmail.com,9876543210,31-13-2024
+488,  david,25,-1000.0,India,Chennai,,(987)-654-3210,
+489,  david,150,-1000.0,india,Chennai,invalid_email,,
+490,  david,25,5000.0,india,Mumbai,chavezjames@yahoo.com,,2024/01/01
+491,  david,abc,,U.S.A,Delhi,invalid_email,,2024/01/01
+492,mike,30,,USA,,kbartlett@yahoo.com,,31-13-2024
+493,mike,30,,United States,Chennai,invalid_email,,2024/01/01
+494,mike,45,,USA,,,12345,
+495, John ,150,-1000.0,INDIA,Delhi,palmerrachel@hotmail.com,9876543210,2024/01/01
+495,  david,abc,99999999.0,USA,Mumbai,veronicaharrison@cook-sandoval.com,(987)-654-3210,31-13-2024
+497,SARAH,45,10000.0,INDIA,,invalid_email,9876543210,12-05-2024
+498,,30,,INDIA,Delhi,brian43@hotmail.com,12345,
+499,,45,,india,Mumbai,hnewton@yahoo.com,12345,
+499, John ,45,10000.0,United States,,joelwalls@gmail.com,9876543210,2024/01/01
+501, John ,30,10000.0,india,,williamdavis@pierce.net,(987)-654-3210,
+502,mike,25,99999999.0,india,Mumbai,jhall@yahoo.com,9876543210,12-05-2024
+503,mike,45,,USA,,dicksonelizabeth@hotmail.com,12345,
+503,,150,99999999.0,India,Mumbai,anthony51@johnson.org,,12-05-2024
+505,  david,25,,USA,Chennai,invalid_email,9876543210,31-13-2024
+506,  david,25,-1000.0,India,,invalid_email,9876543210,
+507,  david,30,10000.0,india,,,12345,2024/01/01
+508,SARAH,25,,INDIA,Delhi,whoward@watkins-wong.com,9876543210,12-05-2024
+508,  david,abc,5000.0,United States,Delhi,,12345,2024/01/01
+509,  david,30,10000.0,U.S.A,Delhi,,12345,2024/01/01
+511,mike,150,,USA,,invalid_email,9876543210,31-13-2024
+512,SARAH,25,10000.0,india,,invalid_email,12345,31-13-2024
+513,mike,25,-1000.0,INDIA,Chennai,brittanydickerson@gmail.com,12345,
+513,SARAH,abc,-1000.0,india,,umoore@yahoo.com,12345,31-13-2024
+514,mike,25,-1000.0,U.S.A,Delhi,,,31-13-2024
+516,mike,150,-1000.0,India,,invalid_email,12345,31-13-2024
+516,  david,25,10000.0,india,,randall97@johnson.com,12345,2024/01/01
+518,SARAH,150,5000.0,india,Chennai,qmercer@garcia.biz,9876543210,
+519, John ,abc,-1000.0,INDIA,,invalid_email,(987)-654-3210,31-13-2024
+519,mike,abc,-1000.0,U.S.A,,,9876543210,
+521,  david,25,10000.0,INDIA,Delhi,,(987)-654-3210,
+522,mike,abc,,india,Delhi,,,31-13-2024
+523,mike,,10000.0,USA,Mumbai,invalid_email,(987)-654-3210,12-05-2024
+524,  david,45,99999999.0,India,,amandalin@hotmail.com,9876543210,31-13-2024
+525,  david,150,-1000.0,india,Mumbai,,(987)-654-3210,
+525,SARAH,abc,5000.0,INDIA,Mumbai,invalid_email,(987)-654-3210,
+527,SARAH,,99999999.0,INDIA,Chennai,,(987)-654-3210,
+528,mike,25,,india,Mumbai,rachel01@hotmail.com,(987)-654-3210,2024/01/01
+529,SARAH,abc,5000.0,india,Delhi,invalid_email,12345,12-05-2024
+529,,,10000.0,INDIA,Delhi,,,12-05-2024
+531, John ,30,,INDIA,Delhi,elizabeth69@hotmail.com,9876543210,2024/01/01
+532,mike,45,10000.0,INDIA,,,9876543210,31-13-2024
+533,mike,,,India,,wrighttravis@pierce-sanders.com,(987)-654-3210,
+534,  david,30,,india,,invalid_email,(987)-654-3210,31-13-2024
+534,  david,abc,5000.0,U.S.A,,invalid_email,(987)-654-3210,12-05-2024
+536,mike,abc,,india,,kendrawebb@gmail.com,9876543210,2024/01/01
+536,  david,abc,5000.0,INDIA,,pbell@flynn.com,9876543210,
+538,  david,abc,5000.0,india,,,,31-13-2024
+539,  david,,10000.0,India,,invalid_email,9876543210,
+540,SARAH,,10000.0,USA,Mumbai,,,31-13-2024
+541, John ,150,5000.0,INDIA,,karen69@jefferson.org,9876543210,
+542,SARAH,,-1000.0,USA,Delhi,invalid_email,12345,31-13-2024
+542,  david,45,,United States,,donnafry@yahoo.com,,
+544,SARAH,abc,,India,Mumbai,invalid_email,12345,
+545, John ,150,10000.0,India,Delhi,tsmith@yahoo.com,(987)-654-3210,
+546,  david,abc,5000.0,U.S.A,,,9876543210,12-05-2024
+547,,abc,99999999.0,USA,Chennai,invalid_email,(987)-654-3210,31-13-2024
+548,  david,25,99999999.0,India,,,12345,12-05-2024
+549,,,5000.0,U.S.A,,invalid_email,(987)-654-3210,12-05-2024
+550,  david,30,5000.0,United States,Delhi,,9876543210,2024/01/01
+551,SARAH,,-1000.0,india,,invalid_email,(987)-654-3210,12-05-2024
+552, John ,abc,-1000.0,india,,,12345,31-13-2024
+553,mike,abc,10000.0,India,,,9876543210,31-13-2024
+554,,abc,5000.0,INDIA,Chennai,,12345,31-13-2024
+555,  david,45,,INDIA,Mumbai,,,
+555,mike,45,99999999.0,india,,,9876543210,
+557,SARAH,25,99999999.0,india,Delhi,,(987)-654-3210,31-13-2024
+557,SARAH,abc,,USA,Mumbai,wstone@hotmail.com,12345,12-05-2024
+558,SARAH,25,,U.S.A,,invalid_email,12345,2024/01/01
+560,mike,150,10000.0,India,Delhi,mary14@yahoo.com,(987)-654-3210,31-13-2024
+561,mike,30,10000.0,INDIA,Mumbai,murphytodd@carlson.com,9876543210,12-05-2024
+562,,abc,5000.0,INDIA,Chennai,invalid_email,12345,31-13-2024
+562,  david,45,99999999.0,U.S.A,,invalid_email,,2024/01/01
+564, John ,abc,99999999.0,India,,robertnewman@pearson.com,12345,
+565,,25,,India,Mumbai,,9876543210,12-05-2024
+566,,abc,5000.0,United States,Mumbai,,12345,2024/01/01
+567,mike,45,99999999.0,INDIA,Mumbai,invalid_email,(987)-654-3210,
+567,mike,,-1000.0,United States,,invalid_email,,2024/01/01
+569,  david,150,10000.0,USA,Mumbai,pmartinez@livingston.biz,,
+570,mike,150,10000.0,India,Chennai,adkinsjessica@hotmail.com,,
+571,  david,abc,-1000.0,India,Mumbai,invalid_email,9876543210,
+572,mike,25,10000.0,United States,,,9876543210,
+573,SARAH,45,-1000.0,INDIA,,invalid_email,12345,12-05-2024
+573, John ,45,,U.S.A,,,(987)-654-3210,31-13-2024
+575,SARAH,150,,India,,reyesdave@bautista.com,,31-13-2024
+575,mike,30,-1000.0,India,,,,12-05-2024
+577,mike,45,10000.0,United States,Mumbai,,12345,31-13-2024
+577,SARAH,,-1000.0,india,,,,
+579,mike,25,10000.0,india,Delhi,,12345,12-05-2024
+580,mike,,5000.0,USA,Chennai,invalid_email,9876543210,12-05-2024
+580,  david,25,5000.0,United States,,russelljoseph@hotmail.com,9876543210,
+582,mike,30,-1000.0,India,Delhi,ethomas@yahoo.com,(987)-654-3210,12-05-2024
+583,SARAH,45,99999999.0,India,,invalid_email,,2024/01/01
+584,  david,abc,99999999.0,india,,invalid_email,12345,31-13-2024
+584,  david,30,5000.0,India,Mumbai,invalid_email,,31-13-2024
+586,SARAH,25,5000.0,INDIA,Delhi,invalid_email,12345,
+587,,,-1000.0,USA,,invalid_email,(987)-654-3210,12-05-2024
+588,mike,,,India,,bheath@brown-yang.com,(987)-654-3210,
+588,mike,45,5000.0,India,Delhi,,12345,31-13-2024
+590,,30,5000.0,U.S.A,Delhi,invalid_email,9876543210,
+590,SARAH,150,,India,Delhi,invalid_email,9876543210,2024/01/01
+592,  david,25,10000.0,USA,Mumbai,invalid_email,(987)-654-3210,
+593,mike,25,10000.0,USA,,penajonathan@phillips.org,12345,
+594,,45,99999999.0,india,Chennai,invalid_email,9876543210,2024/01/01
+595,SARAH,,5000.0,INDIA,,jennifer61@brooks.org,(987)-654-3210,31-13-2024
+595, John ,25,10000.0,India,,boydrichard@martinez.com,9876543210,2024/01/01
+596, John ,abc,10000.0,India,,,12345,31-13-2024
+598, John ,150,,INDIA,Chennai,invalid_email,,31-13-2024
+599,SARAH,25,10000.0,USA,Delhi,,,31-13-2024
+600,mike,45,,USA,,hubbardpatrick@ayers-grimes.info,9876543210,12-05-2024
+600,  david,30,-1000.0,USA,Delhi,jennifer02@wright.com,,12-05-2024
+602, John ,25,-1000.0,india,Delhi,,9876543210,2024/01/01
+602,mike,45,,india,Mumbai,invalid_email,(987)-654-3210,12-05-2024
+603,SARAH,150,10000.0,United States,Chennai,invalid_email,,31-13-2024
+604,mike,abc,10000.0,INDIA,Mumbai,invalid_email,,31-13-2024
+606, John ,abc,10000.0,India,Mumbai,invalid_email,12345,
+607,  david,,10000.0,USA,,invalid_email,(987)-654-3210,31-13-2024
+608,  david,,10000.0,INDIA,,,(987)-654-3210,31-13-2024
+609,,150,-1000.0,USA,Chennai,,9876543210,12-05-2024
+610,mike,25,10000.0,USA,,adrienne13@hotmail.com,9876543210,12-05-2024
+610,,abc,,india,,invalid_email,9876543210,31-13-2024
+612,  david,150,5000.0,USA,Delhi,,,12-05-2024
+612, John ,45,,india,,invalid_email,9876543210,31-13-2024
+614, John ,45,5000.0,U.S.A,,psmith@fuentes-rojas.com,9876543210,2024/01/01
+614,mike,30,,india,Delhi,,(987)-654-3210,
+616,  david,45,99999999.0,india,,amandawilliams@gmail.com,(987)-654-3210,2024/01/01
+616,  david,45,10000.0,INDIA,,invalid_email,12345,31-13-2024
+618,SARAH,,99999999.0,india,Mumbai,,(987)-654-3210,2024/01/01
+618,  david,150,-1000.0,United States,,invalid_email,,12-05-2024
+620,SARAH,abc,5000.0,INDIA,Delhi,invalid_email,9876543210,31-13-2024
+621,mike,45,5000.0,india,Mumbai,,(987)-654-3210,12-05-2024
+622,,45,10000.0,U.S.A,Mumbai,invalid_email,(987)-654-3210,2024/01/01
+623,SARAH,25,,India,,rachelcampbell@yahoo.com,9876543210,31-13-2024
+623,mike,,,USA,,,12345,12-05-2024
+624, John ,25,-1000.0,United States,,invalid_email,9876543210,2024/01/01
+626,,25,-1000.0,INDIA,Chennai,invalid_email,(987)-654-3210,31-13-2024
+627,mike,25,99999999.0,India,,,9876543210,2024/01/01
+627,SARAH,,10000.0,U.S.A,Mumbai,normaford@gmail.com,,12-05-2024
+628,SARAH,25,99999999.0,INDIA,,,(987)-654-3210,2024/01/01
+629,  david,30,99999999.0,India,,tbowen@gmail.com,(987)-654-3210,2024/01/01
+631,SARAH,,-1000.0,india,,rebecca28@garcia.org,9876543210,
+631,SARAH,45,10000.0,United States,Mumbai,,9876543210,31-13-2024
+633,SARAH,abc,99999999.0,INDIA,Delhi,invalid_email,9876543210,2024/01/01
+634,SARAH,30,5000.0,USA,Chennai,jackgibson@gmail.com,(987)-654-3210,31-13-2024
+635,SARAH,150,5000.0,United States,,invalid_email,9876543210,31-13-2024
+636,  david,30,10000.0,INDIA,,invalid_email,,2024/01/01
+637,,abc,,USA,Mumbai,gonzalezadrienne@gmail.com,9876543210,31-13-2024
+638,  david,45,5000.0,India,Chennai,bmiller@gmail.com,,31-13-2024
+639, John ,25,-1000.0,india,,frhodes@gmail.com,,12-05-2024
+640,,abc,,USA,Delhi,brownbrandon@hotmail.com,,12-05-2024
+641,mike,abc,-1000.0,United States,,invalid_email,(987)-654-3210,12-05-2024
+642,SARAH,45,-1000.0,U.S.A,,invalid_email,9876543210,31-13-2024
+642, John ,abc,-1000.0,U.S.A,Delhi,invalid_email,,2024/01/01
+644,,abc,,india,Delhi,invalid_email,(987)-654-3210,2024/01/01
+644,SARAH,abc,-1000.0,India,,jacqueline45@hotmail.com,(987)-654-3210,2024/01/01
+646,mike,45,,U.S.A,,cherylwalker@norton.info,(987)-654-3210,31-13-2024
+647,  david,abc,5000.0,U.S.A,Mumbai,kimberly81@rodgers.com,9876543210,31-13-2024
+647,,45,99999999.0,india,Mumbai,angela97@thomas-garcia.com,(987)-654-3210,12-05-2024
+649,mike,25,,INDIA,Mumbai,,(987)-654-3210,2024/01/01
+650, John ,45,5000.0,india,,haroldford@gmail.com,,31-13-2024
+651,,,99999999.0,U.S.A,Delhi,kimberlyperry@yahoo.com,(987)-654-3210,12-05-2024
+651, John ,45,99999999.0,U.S.A,Delhi,crhodes@gmail.com,9876543210,2024/01/01
+652,  david,,-1000.0,India,Delhi,invalid_email,,12-05-2024
+653,SARAH,,,india,,,9876543210,12-05-2024
+654,,25,10000.0,INDIA,,invalid_email,9876543210,
+656,mike,45,99999999.0,India,Mumbai,invalid_email,,2024/01/01
+656,SARAH,abc,5000.0,india,,laura40@reid.com,,
+658,  david,25,10000.0,INDIA,,boyerkatherine@yahoo.com,,
+659,,25,10000.0,India,,,(987)-654-3210,
+660,SARAH,45,10000.0,india,Chennai,april82@yahoo.com,9876543210,
+661, John ,abc,99999999.0,india,,,(987)-654-3210,
+661, John ,30,-1000.0,INDIA,Delhi,byrdwendy@yahoo.com,(987)-654-3210,2024/01/01
+663,,45,-1000.0,india,,invalid_email,(987)-654-3210,12-05-2024
+664,mike,25,,United States,Chennai,invalid_email,,
+665,  david,,10000.0,U.S.A,,,,
+665,,25,,INDIA,Chennai,kevinevans@spencer.com,12345,2024/01/01
+667,mike,30,5000.0,india,Mumbai,barbarawilson@yahoo.com,(987)-654-3210,12-05-2024
+668,SARAH,25,5000.0,USA,,kaylaphillips@morales.com,(987)-654-3210,31-13-2024
+669,,150,,United States,Chennai,robinmorse@hotmail.com,12345,31-13-2024
+670,,25,99999999.0,INDIA,Chennai,invalid_email,,2024/01/01
+671,SARAH,45,,India,,yorklorraine@johnson.com,(987)-654-3210,12-05-2024
+672,  david,150,,USA,,,12345,
+673,SARAH,abc,,INDIA,Mumbai,deniseramirez@smith.net,,
+673,mike,abc,10000.0,india,Mumbai,robert02@park-davis.info,9876543210,12-05-2024
+675,,150,5000.0,india,Delhi,,,
+676,SARAH,45,,india,Delhi,whitejeffrey@jackson.org,(987)-654-3210,31-13-2024
+677, John ,45,-1000.0,INDIA,,invalid_email,9876543210,12-05-2024
+678,SARAH,,,INDIA,Chennai,xrobinson@burton.com,(987)-654-3210,31-13-2024
+679,,,5000.0,india,Delhi,invalid_email,(987)-654-3210,
+680,,,5000.0,INDIA,Mumbai,,12345,12-05-2024
+681,  david,150,-1000.0,United States,Chennai,fhall@yahoo.com,12345,12-05-2024
+682,,150,,U.S.A,,,,2024/01/01
+683,SARAH,150,-1000.0,india,Chennai,invalid_email,,12-05-2024
+683,mike,45,99999999.0,United States,Delhi,,12345,2024/01/01
+685,SARAH,25,10000.0,USA,,,9876543210,
+686,mike,45,99999999.0,india,,invalid_email,12345,2024/01/01
+687,  david,150,10000.0,U.S.A,Chennai,invalid_email,,12-05-2024
+688,SARAH,25,,USA,Mumbai,invalid_email,9876543210,12-05-2024
+689, John ,abc,-1000.0,india,Delhi,invalid_email,(987)-654-3210,2024/01/01
+690,SARAH,abc,-1000.0,India,Chennai,invalid_email,(987)-654-3210,2024/01/01
+691, John ,25,,INDIA,,luis25@jones.org,(987)-654-3210,31-13-2024
+692,SARAH,30,-1000.0,INDIA,Delhi,wardgregory@gmail.com,9876543210,31-13-2024
+693,  david,,5000.0,U.S.A,Chennai,invalid_email,9876543210,12-05-2024
+693, John ,25,99999999.0,India,Delhi,,,31-13-2024
+695,SARAH,30,,USA,,,(987)-654-3210,12-05-2024
+695, John ,,-1000.0,india,,invalid_email,(987)-654-3210,2024/01/01
+697,  david,45,-1000.0,India,Delhi,,12345,31-13-2024
+697,,25,5000.0,India,Chennai,invalid_email,,
+699,SARAH,45,,INDIA,Delhi,,9876543210,
+700,SARAH,abc,5000.0,United States,,invalid_email,,
+701,  david,30,,U.S.A,,invalid_email,9876543210,31-13-2024
+702,  david,,99999999.0,INDIA,Mumbai,,(987)-654-3210,2024/01/01
+703,  david,,5000.0,INDIA,,invalid_email,12345,12-05-2024
+703,mike,45,99999999.0,USA,,duranjenny@carter.org,,31-13-2024
+704, John ,25,10000.0,U.S.A,,,9876543210,2024/01/01
+706,,abc,-1000.0,India,,,,2024/01/01
+707,SARAH,45,,india,Mumbai,invalid_email,12345,12-05-2024
+708,  david,abc,99999999.0,U.S.A,Mumbai,portiz@chandler-hernandez.com,12345,12-05-2024
+709,  david,45,5000.0,United States,Chennai,xjones@hooper.com,,
+710,,,99999999.0,India,,daniellecarpenter@torres.com,(987)-654-3210,
+711,mike,abc,99999999.0,United States,,brian18@hotmail.com,12345,2024/01/01
+712, John ,25,5000.0,U.S.A,,,,2024/01/01
+713,mike,150,99999999.0,India,,invalid_email,(987)-654-3210,
+713,  david,,99999999.0,United States,Delhi,guerrerocolleen@curry.com,,12-05-2024
+714,mike,150,,United States,,,12345,12-05-2024
+716,  david,,-1000.0,USA,,invalid_email,9876543210,2024/01/01
+717,,abc,5000.0,INDIA,,jmoore@frank-carlson.org,(987)-654-3210,
+718,  david,abc,-1000.0,INDIA,Chennai,invalid_email,9876543210,
+718,  david,,,india,Mumbai,invalid_email,12345,31-13-2024
+720,mike,25,,india,Mumbai,,12345,12-05-2024
+720,  david,30,,USA,Mumbai,,9876543210,31-13-2024
+721, John ,30,,USA,Mumbai,invalid_email,(987)-654-3210,31-13-2024
+723,SARAH,25,5000.0,INDIA,Delhi,,(987)-654-3210,
+724,mike,45,10000.0,India,Delhi,,9876543210,31-13-2024
+725,mike,abc,10000.0,India,,invalid_email,(987)-654-3210,
+726,mike,abc,-1000.0,USA,Mumbai,michaelbrewer@gmail.com,9876543210,2024/01/01
+726,,,-1000.0,India,,palmerdavid@novak-williams.biz,,
+727,SARAH,30,,India,Chennai,invalid_email,,
+729,  david,150,5000.0,USA,,,12345,
+730,SARAH,45,-1000.0,USA,Mumbai,,,
+731,  david,30,,United States,Delhi,invalid_email,9876543210,12-05-2024
+732, John ,,5000.0,INDIA,Chennai,,,31-13-2024
+733,SARAH,45,10000.0,USA,Chennai,,9876543210,12-05-2024
+734,  david,150,5000.0,india,Chennai,stevenschristina@hotmail.com,(987)-654-3210,
+735, John ,150,10000.0,United States,Mumbai,invalid_email,9876543210,
+736,,150,-1000.0,United States,Delhi,wyattwendy@yahoo.com,12345,12-05-2024
+736,,45,5000.0,United States,Mumbai,susan23@hotmail.com,,12-05-2024
+737,mike,abc,99999999.0,U.S.A,,wendy85@henry.com,(987)-654-3210,
+739,  david,150,5000.0,India,Mumbai,thomas63@holmes-boyd.com,9876543210,12-05-2024
+740,  david,150,-1000.0,India,Chennai,invalid_email,(987)-654-3210,12-05-2024
+741,,45,10000.0,india,Mumbai,invalid_email,9876543210,
+741,,,5000.0,INDIA,Delhi,lindsay45@gmail.com,,
+743,  david,abc,-1000.0,United States,Mumbai,invalid_email,9876543210,12-05-2024
+744,  david,45,5000.0,India,Mumbai,,(987)-654-3210,2024/01/01
+745,,150,10000.0,United States,,foxcourtney@hotmail.com,12345,
+746,,150,10000.0,U.S.A,Chennai,amyshelton@hotmail.com,9876543210,2024/01/01
+746,,25,,india,Mumbai,invalid_email,,12-05-2024
+748,SARAH,25,-1000.0,india,Chennai,invalid_email,9876543210,2024/01/01
+748,  david,30,,U.S.A,Chennai,walkerjennifer@hotmail.com,(987)-654-3210,
+750,,abc,5000.0,U.S.A,Delhi,acummings@hotmail.com,(987)-654-3210,12-05-2024
+751, John ,,,U.S.A,,hoffmansandra@garcia-macdonald.com,9876543210,12-05-2024
+751,  david,abc,10000.0,USA,Delhi,invalid_email,12345,
+753, John ,150,,INDIA,Delhi,invalid_email,(987)-654-3210,12-05-2024
+754,SARAH,25,5000.0,United States,Delhi,invalid_email,(987)-654-3210,31-13-2024
+755,,30,,USA,Delhi,traviskelly@reeves-craig.com,,2024/01/01
+756,,25,5000.0,USA,Delhi,susan15@howard-cooper.org,12345,
+756,mike,30,10000.0,india,Mumbai,,,
+758,mike,abc,5000.0,INDIA,Delhi,,,12-05-2024
+759,SARAH,,5000.0,INDIA,Delhi,schultzkimberly@watts-turner.info,9876543210,12-05-2024
+760,  david,abc,10000.0,India,Delhi,invalid_email,9876543210,2024/01/01
+761,mike,150,99999999.0,India,Delhi,xtran@hotmail.com,9876543210,12-05-2024
+762,SARAH,30,99999999.0,United States,Mumbai,,,12-05-2024
+763, John ,abc,10000.0,U.S.A,Chennai,invalid_email,9876543210,12-05-2024
+764,,abc,,United States,,vazquezdominique@gmail.com,12345,2024/01/01
+765,SARAH,30,5000.0,U.S.A,,mariobrown@hotmail.com,,2024/01/01
+766,,abc,99999999.0,USA,,timothy41@gmail.com,(987)-654-3210,
+767,,45,10000.0,India,Delhi,,12345,31-13-2024
+768,SARAH,30,5000.0,india,,richardfernandez@salas.com,12345,2024/01/01
+769,,,99999999.0,U.S.A,Mumbai,wblankenship@charles-mathews.com,12345,2024/01/01
+770,  david,abc,10000.0,USA,,,,2024/01/01
+770,,45,5000.0,india,,,(987)-654-3210,2024/01/01
+772,,abc,10000.0,INDIA,Delhi,,9876543210,
+773, John ,,,USA,,,,
+774,,,10000.0,USA,,frankcraig@sanders.com,,2024/01/01
+775,SARAH,45,10000.0,india,Chennai,lisa44@hotmail.com,,31-13-2024
+776,,abc,,USA,,invalid_email,(987)-654-3210,
+777,SARAH,150,99999999.0,india,Chennai,,9876543210,
+778,  david,25,-1000.0,India,Mumbai,,(987)-654-3210,12-05-2024
+779, John ,abc,-1000.0,USA,Chennai,invalid_email,12345,
+780,SARAH,45,10000.0,india,,,9876543210,2024/01/01
+781,SARAH,30,,USA,,,(987)-654-3210,2024/01/01
+782,SARAH,45,,india,,invalid_email,9876543210,12-05-2024
+783,SARAH,,99999999.0,INDIA,,jcurry@smith.net,,31-13-2024
+783,  david,45,5000.0,U.S.A,,atucker@yahoo.com,9876543210,
+785,SARAH,25,5000.0,U.S.A,Mumbai,paul02@hotmail.com,(987)-654-3210,
+786,mike,abc,5000.0,United States,,,(987)-654-3210,
+787,,,5000.0,United States,Delhi,leeedward@richardson.com,9876543210,2024/01/01
+788,,abc,-1000.0,india,Mumbai,invalid_email,,
+789,  david,30,-1000.0,U.S.A,Mumbai,wwilson@beck.info,,31-13-2024
+790, John ,30,-1000.0,United States,,garnerkevin@baker-gilbert.com,(987)-654-3210,31-13-2024
+791,mike,150,10000.0,U.S.A,Delhi,judy88@yahoo.com,9876543210,31-13-2024
+792,,45,-1000.0,U.S.A,Delhi,,9876543210,31-13-2024
+793,mike,45,99999999.0,INDIA,Delhi,,12345,12-05-2024
+794,,,10000.0,India,Mumbai,zgonzales@yahoo.com,9876543210,31-13-2024
+795,,45,,india,Delhi,,,31-13-2024
+796,,25,10000.0,india,,maryserrano@gmail.com,12345,12-05-2024
+796,  david,30,99999999.0,United States,Chennai,invalid_email,9876543210,2024/01/01
+798,SARAH,30,5000.0,USA,,invalid_email,9876543210,
+799,,45,,INDIA,,mendezgeorge@hotmail.com,12345,
+800,,45,99999999.0,United States,Chennai,invalid_email,12345,31-13-2024
