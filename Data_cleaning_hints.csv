@@ -1,0 +1,15 @@
+﻿Technique,Use Case,PySpark Functions,Syntax Example
+Remove duplicates,Eliminate repeated rows,dropDuplicates(),df.dropDuplicates()
+Handle nulls,Replace or drop missing values,"fillna(), dropna(), na.replace()",df.fillna({'age':0})
+Standardize casing,Normalize text values,"upper(), lower(), initcap()","df.withColumn(""country"", upper(col(""country"")))"
+Trim whitespace,Clean leading/trailing spaces,"trim(), ltrim(), rtrim()","df.withColumn(""name"", trim(col(""name"")))"
+Regex replace,Remove unwanted characters/patterns,regexp_replace(),"df.withColumn(""phone"", regexp_replace(col(""phone""), ""[^0-9]"", """"))"
+Validate schema,Ensure correct data types,cast(),"df.withColumn(""age"", col(""age"").cast(""int""))"
+Date parsing,Normalize multiple date formats,"to_date(), try_to_date()","df.withColumn(""join_date"", to_date(col(""date""), ""yyyy-MM-dd""))"
+Outlier handling,Flag or remove extreme values,"when(), filter()","df.filter(col(""salary"") < 100000)"
+Conditional cleaning,Apply rules to fix invalid values,"when(), otherwise()","df.withColumn(""quantity"", when(col(""quantity"") < 0, 0).otherwise(col(""quantity"")))"
+Explode arrays,Flatten nested arrays,explode(),"df.withColumn(""item"", explode(col(""items"")))"
+Flatten structs,Extract nested fields,"col(""struct.field"")","df.select(col(""customer.customer_id""))"
+Remove corrupt records,Handle malformed CSV/JSON,"option(""mode"",""PERMISSIVE"")","spark.read.option(""mode"",""PERMISSIVE"").csv(""file.csv"")"
+Standardize categories,Normalize inconsistent labels,"when(), replace()","df.replace({""india"":""INDIA""}, subset=[""country""])"
+Data quality flags,Mark invalid/missing values,"when(), isNull()","df.withColumn(""valid_flag"", when(col(""price"").isNotNull(), ""VALID"").otherwise(""INVALID""))"
