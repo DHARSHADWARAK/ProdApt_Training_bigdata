@@ -1,0 +1,290 @@
+product_id,product_name,category,brand,price
+1001,Lite Laptop,Electronics,Sony,6710
+1002,Ultra Laptop,Electronics,Sony,29580
+1003,Lite Laptop,Electronics,Sony,84705
+1004,Ultra Laptop,Electronics,Samsung,65506
+1005,Ultra Laptop,Electronics,HP,86155
+1006,Pro Laptop,Electronics,Boat,90075
+1007,Max Laptop,Electronics,HP,45210
+1008,Pro Laptop,Electronics,Dell,65255
+1009,Max Laptop,Electronics,Dell,97934
+1010,Max Laptop,Electronics,Samsung,16467
+1011,Ultra Laptop,Electronics,Boat,41405
+1012,Max Laptop,Electronics,Sony,65063
+1013,Pro Phone,Electronics,Samsung,26132
+1014,Lite Phone,Electronics,Dell,67750
+1015,Max Phone,Electronics,Apple,20020
+1016,Max Phone,Electronics,Sony,4705
+1017,Lite Phone,Electronics,Sony,82099
+1018,Lite Phone,Electronics,HP,40586
+1019,Ultra Phone,Electronics,Apple,87979
+1020,Max Phone,Electronics,Apple,66374
+1021,Max Phone,Electronics,Boat,91571
+1022,Lite Phone,Electronics,HP,49244
+1023,Max Phone,Electronics,Sony,79009
+1024,Pro Phone,Electronics,Apple,55661
+1025,Max Monitor,Electronics,Samsung,3802
+1026,Pro Monitor,Electronics,Boat,20805
+1027,Ultra Monitor,Electronics,Sony,86816
+1028,Max Monitor,Electronics,Sony,78033
+1029,Pro Monitor,Electronics,Dell,35572
+1030,Max Monitor,Electronics,Apple,32195
+1031,Pro Monitor,Electronics,HP,49229
+1032,Max Monitor,Electronics,Sony,13551
+1033,Pro Monitor,Electronics,HP,37464
+1034,Max Monitor,Electronics,HP,46793
+1035,Ultra Monitor,Electronics,Boat,42446
+1036,Max Monitor,Electronics,Dell,14173
+1037,Lite Tablet,Electronics,Samsung,63447
+1038,Ultra Tablet,Electronics,Apple,27953
+1039,Max Tablet,Electronics,Dell,26401
+1040,Lite Tablet,Electronics,Sony,14576
+1041,Ultra Tablet,Electronics,HP,28361
+1042,Lite Tablet,Electronics,Samsung,73803
+1043,Max Tablet,Electronics,HP,73480
+1044,Lite Tablet,Electronics,Apple,46470
+1045,Ultra Tablet,Electronics,Boat,85212
+1046,Pro Tablet,Electronics,Samsung,97871
+1047,Pro Tablet,Electronics,Samsung,88269
+1048,Lite Tablet,Electronics,HP,13046
+1049,Pro TV,Electronics,Boat,61201
+1050,Max TV,Electronics,HP,92706
+1051,Ultra TV,Electronics,Boat,29417
+1052,Lite TV,Electronics,Boat,36313
+1053,Max TV,Electronics,Samsung,85047
+1054,Pro TV,Electronics,Boat,2312
+1055,Lite TV,Electronics,Apple,96228
+1056,Pro TV,Electronics,Sony,75231
+1057,Pro TV,Electronics,Apple,25214
+1058,Lite TV,Electronics,Apple,46729
+1059,Pro TV,Electronics,Boat,82895
+1060,Pro TV,Electronics,Samsung,38244
+1061,Max Keyboard,Accessories,Apple,41758
+1062,Pro Keyboard,Accessories,Apple,84951
+1063,Pro Keyboard,Accessories,Boat,96778
+1064,Pro Keyboard,Accessories,Apple,10902
+1065,Lite Keyboard,Accessories,Sony,28609
+1066,Ultra Keyboard,Accessories,Sony,35157
+1067,Lite Keyboard,Accessories,Apple,45044
+1068,Pro Keyboard,Accessories,Samsung,62062
+1069,Ultra Keyboard,Accessories,HP,98341
+1070,Pro Keyboard,Accessories,Apple,6444
+1071,Max Keyboard,Accessories,Dell,93846
+1072,Max Keyboard,Accessories,Dell,17893
+1073,Max Mouse,Accessories,Samsung,59677
+1074,Ultra Mouse,Accessories,HP,14247
+1075,Pro Mouse,Accessories,Apple,13028
+1076,Max Mouse,Accessories,Boat,53562
+1077,Max Mouse,Accessories,Sony,64608
+1078,Lite Mouse,Accessories,Apple,70985
+1079,Max Mouse,Accessories,Apple,76270
+1080,Lite Mouse,Accessories,Sony,38601
+1081,Pro Mouse,Accessories,Boat,39088
+1082,Ultra Mouse,Accessories,Apple,19284
+1083,Max Mouse,Accessories,Dell,85408
+1084,Max Mouse,Accessories,Dell,71417
+1085,Max Headphones,Accessories,Boat,65923
+1086,Pro Headphones,Accessories,Boat,75513
+1087,Lite Headphones,Accessories,Apple,93643
+1088,Pro Headphones,Accessories,HP,85079
+1089,Pro Headphones,Accessories,Sony,28869
+1090,Max Headphones,Accessories,Dell,65120
+1091,Pro Headphones,Accessories,Boat,44935
+1092,Pro Headphones,Accessories,Samsung,15256
+1093,Pro Headphones,Accessories,Boat,91598
+1094,Max Headphones,Accessories,Apple,84280
+1095,Ultra Headphones,Accessories,Sony,34276
+1096,Lite Headphones,Accessories,Dell,24338
+1097,Pro Charger,Accessories,Boat,77441
+1098,Pro Charger,Accessories,Boat,48571
+1099,Max Charger,Accessories,Sony,64000
+1100,Max Charger,Accessories,HP,51006
+1101,Max Charger,Accessories,Apple,45832
+1102,Max Charger,Accessories,Samsung,65546
+1103,Max Charger,Accessories,Boat,25951
+1104,Pro Charger,Accessories,Samsung,98628
+1105,Max Charger,Accessories,HP,60313
+1106,Max Charger,Accessories,Apple,40824
+1107,Lite Charger,Accessories,Dell,57108
+1108,Ultra Charger,Accessories,Boat,54035
+1109,Lite Webcam,Accessories,Boat,51009
+1110,Lite Webcam,Accessories,HP,15307
+1111,Max Webcam,Accessories,Sony,71511
+1112,Ultra Webcam,Accessories,Dell,52326
+1113,Lite Webcam,Accessories,Dell,29114
+1114,Max Webcam,Accessories,Boat,17379
+1115,Lite Webcam,Accessories,Sony,19892
+1116,Ultra Webcam,Accessories,Boat,62418
+1117,Max Webcam,Accessories,Sony,46998
+1118,Max Webcam,Accessories,Apple,90367
+1119,Pro Webcam,Accessories,Samsung,49846
+1120,Ultra Webcam,Accessories,Samsung,35514
+1121,Ultra Mixer,Home Appliances,Dell,38072
+1122,Ultra Mixer,Home Appliances,HP,18401
+1123,Lite Mixer,Home Appliances,Samsung,14868
+1124,Lite Mixer,Home Appliances,HP,91482
+1125,Lite Mixer,Home Appliances,Sony,86827
+1126,Pro Mixer,Home Appliances,Sony,40855
+1127,Lite Mixer,Home Appliances,Boat,86451
+1128,Ultra Mixer,Home Appliances,Boat,41167
+1129,Max Mixer,Home Appliances,Boat,42526
+1130,Ultra Mixer,Home Appliances,Apple,1931
+1131,Lite Mixer,Home Appliances,Samsung,69833
+1132,Lite Mixer,Home Appliances,Samsung,20901
+1133,Lite Fan,Home Appliances,Dell,46607
+1134,Pro Fan,Home Appliances,Sony,42826
+1135,Lite Fan,Home Appliances,Boat,21938
+1136,Ultra Fan,Home Appliances,Samsung,54905
+1137,Max Fan,Home Appliances,Sony,28331
+1138,Pro Fan,Home Appliances,Sony,86804
+1139,Pro Fan,Home Appliances,HP,4940
+1140,Pro Fan,Home Appliances,Dell,61813
+1141,Pro Fan,Home Appliances,Boat,14266
+1142,Max Fan,Home Appliances,HP,54542
+1143,Lite Fan,Home Appliances,Sony,12932
+1144,Lite Fan,Home Appliances,Samsung,58095
+1145,Lite AC,Home Appliances,Dell,69761
+1146,Lite AC,Home Appliances,Boat,21256
+1147,Ultra AC,Home Appliances,Boat,63547
+1148,Pro AC,Home Appliances,Sony,77272
+1149,Max AC,Home Appliances,Apple,79815
+1150,Ultra AC,Home Appliances,Dell,66579
+1151,Lite AC,Home Appliances,Apple,79018
+1152,Lite AC,Home Appliances,HP,69772
+1153,Lite AC,Home Appliances,Dell,41410
+1154,Ultra AC,Home Appliances,Apple,29133
+1155,Pro AC,Home Appliances,Boat,46527
+1156,Pro AC,Home Appliances,Sony,96424
+1157,Max Refrigerator,Home Appliances,Boat,40648
+1158,Pro Refrigerator,Home Appliances,Samsung,45854
+1159,Lite Refrigerator,Home Appliances,Samsung,51340
+1160,Max Refrigerator,Home Appliances,Samsung,62158
+1161,Lite Refrigerator,Home Appliances,Samsung,50368
+1162,Ultra Refrigerator,Home Appliances,Dell,7839
+1163,Pro Refrigerator,Home Appliances,Apple,67656
+1164,Pro Refrigerator,Home Appliances,Dell,76349
+1165,Pro Refrigerator,Home Appliances,Boat,34853
+1166,Ultra Refrigerator,Home Appliances,HP,32274
+1167,Pro Refrigerator,Home Appliances,Samsung,87118
+1168,Lite Refrigerator,Home Appliances,Samsung,6088
+1169,Pro Washing Machine,Home Appliances,Samsung,76982
+1170,Lite Washing Machine,Home Appliances,Samsung,78053
+1171,Ultra Washing Machine,Home Appliances,Samsung,3883
+1172,Pro Washing Machine,Home Appliances,HP,84534
+1173,Ultra Washing Machine,Home Appliances,Samsung,14209
+1174,Ultra Washing Machine,Home Appliances,Samsung,1837
+1175,Lite Washing Machine,Home Appliances,Sony,24654
+1176,Ultra Washing Machine,Home Appliances,Sony,53170
+1177,Ultra Washing Machine,Home Appliances,Samsung,6244
+1178,Max Washing Machine,Home Appliances,Samsung,41885
+1179,Pro Washing Machine,Home Appliances,Sony,64236
+1180,Max Washing Machine,Home Appliances,Apple,67475
+1181,Ultra Shirt,Fashion,Apple,31662
+1182,Pro Shirt,Fashion,Apple,64290
+1183,Pro Shirt,Fashion,Samsung,49958
+1184,Lite Shirt,Fashion,HP,44024
+1185,Max Shirt,Fashion,Boat,75090
+1186,Max Shirt,Fashion,HP,52663
+1187,Lite Shirt,Fashion,Boat,60443
+1188,Ultra Shirt,Fashion,Samsung,97753
+1189,Max Shirt,Fashion,Sony,31525
+1190,Max Shirt,Fashion,Sony,9828
+1191,Max Shirt,Fashion,Apple,89660
+1192,Ultra Shirt,Fashion,HP,56917
+1193,Lite Shoes,Fashion,Sony,52150
+1194,Lite Shoes,Fashion,HP,26933
+1195,Max Shoes,Fashion,Samsung,65993
+1196,Pro Shoes,Fashion,Boat,31909
+1197,Max Shoes,Fashion,Apple,99955
+1198,Lite Shoes,Fashion,Dell,67870
+1199,Lite Shoes,Fashion,Dell,38476
+1200,Ultra Shoes,Fashion,Samsung,54794
+1201,Ultra Shoes,Fashion,HP,67957
+1202,Ultra Shoes,Fashion,HP,70234
+1203,Ultra Shoes,Fashion,Dell,82566
+1204,Lite Shoes,Fashion,Samsung,47547
+1205,Pro Watch,Fashion,HP,9656
+1206,Max Watch,Fashion,HP,46544
+1207,Pro Watch,Fashion,Samsung,55594
+1208,Lite Watch,Fashion,Sony,16493
+1209,Lite Watch,Fashion,Dell,92605
+1210,Lite Watch,Fashion,Boat,24428
+1211,Pro Watch,Fashion,Boat,76360
+1212,Lite Watch,Fashion,Sony,1838
+1213,Pro Watch,Fashion,Dell,96342
+1214,Lite Watch,Fashion,Dell,9667
+1215,Lite Watch,Fashion,Apple,64787
+1216,Lite Watch,Fashion,Apple,2671
+1217,Ultra Bag,Fashion,Boat,38226
+1218,Ultra Bag,Fashion,Apple,11378
+1219,Ultra Bag,Fashion,HP,43194
+1220,Lite Bag,Fashion,Samsung,38414
+1221,Max Bag,Fashion,Apple,10579
+1222,Pro Bag,Fashion,HP,31349
+1223,Pro Bag,Fashion,Dell,32230
+1224,Pro Bag,Fashion,HP,47592
+1225,Max Bag,Fashion,Sony,99026
+1226,Ultra Bag,Fashion,Boat,89832
+1227,Max Bag,Fashion,Sony,3615
+1228,Max Bag,Fashion,Sony,43322
+1229,Max Jeans,Fashion,Dell,84793
+1230,Ultra Jeans,Fashion,Samsung,31477
+1231,Ultra Jeans,Fashion,Sony,84053
+1232,Pro Jeans,Fashion,Boat,30466
+1233,Lite Jeans,Fashion,Apple,30626
+1234,Pro Jeans,Fashion,Samsung,41160
+1235,Lite Jeans,Fashion,HP,41057
+1236,Ultra Jeans,Fashion,HP,52202
+1237,Ultra Jeans,Fashion,Sony,53435
+1238,Max Jeans,Fashion,HP,46097
+1239,Max Jeans,Fashion,HP,60131
+1240,Pro Jeans,Fashion,Sony,72332
+1241,Pro Python Book,Books,Apple,81088
+1242,Lite Python Book,Books,Boat,64009
+1243,Lite Python Book,Books,Samsung,95447
+1244,Lite Python Book,Books,HP,37028
+1245,Lite Python Book,Books,HP,86956
+1246,Ultra Python Book,Books,Samsung,67998
+1247,Ultra Python Book,Books,HP,72716
+1248,Lite Python Book,Books,HP,87336
+1249,Pro Python Book,Books,Samsung,74532
+1250,Ultra Python Book,Books,Apple,72474
+1251,Pro Python Book,Books,Apple,84706
+1252,Ultra Python Book,Books,HP,874
+1253,Pro Spark Guide,Books,Boat,15395
+1254,Ultra Spark Guide,Books,Boat,1857
+1255,Lite Spark Guide,Books,Sony,1967
+1256,Max Spark Guide,Books,Apple,27737
+1257,Max Spark Guide,Books,Samsung,17420
+1258,Lite Spark Guide,Books,HP,69839
+1259,Pro Spark Guide,Books,Sony,49314
+1260,Pro Spark Guide,Books,Sony,59215
+1261,Pro Spark Guide,Books,Samsung,26495
+1262,Pro Spark Guide,Books,Boat,78258
+1263,Pro Spark Guide,Books,HP,22996
+1264,Lite Spark Guide,Books,Apple,7719
+1265,Ultra AI Handbook,Books,Boat,81552
+1266,Pro AI Handbook,Books,Apple,17200
+1267,Lite AI Handbook,Books,HP,43766
+1268,Max AI Handbook,Books,Apple,8462
+1269,Max AI Handbook,Books,Apple,2186
+1270,Lite AI Handbook,Books,HP,87383
+1271,Lite AI Handbook,Books,Sony,40676
+1272,Max AI Handbook,Books,Dell,48143
+1273,Max AI Handbook,Books,Samsung,30002
+1274,Max AI Handbook,Books,Dell,6222
+1275,Ultra AI Handbook,Books,Dell,9991
+1276,Max AI Handbook,Books,Dell,8911
+1277,Max ML Concepts,Books,Samsung,12175
+1278,Max ML Concepts,Books,Samsung,76209
+1279,Max ML Concepts,Books,Sony,19526
+1280,Pro ML Concepts,Books,Samsung,26441
+1281,Ultra ML Concepts,Books,Dell,43464
+1282,Lite ML Concepts,Books,Boat,56960
+1283,Pro ML Concepts,Books,HP,58348
+1284,Lite ML Concepts,Books,HP,69865
+1285,Ultra ML Concepts,Books,Boat,999
+1286,Max ML Concepts,Books,Dell,64320
+1287,Pro ML Concepts,Books,Samsung,24114
+1288,Lite ML Concepts,Books,Boat,17696
+BAD_ID,,UNKNOWN,,INVALID_PRICE
